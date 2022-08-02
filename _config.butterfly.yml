@@ -51,7 +51,7 @@ social:
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
 
   fab fa-github: https://github.com/ZXY-hhh || Github
-  fa-brands fa-qq: /img/qq.png || QQ
+  fa-brands fa-qq: https://cdn.jsdelivr.net/gh/ZXY-hhh/picgo/img/q.png || QQ
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
